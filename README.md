@@ -132,6 +132,6 @@ This project is distributed under the MIT License. Refer to the `LICENSE` file f
 
 ## Author
 
-**Soumya Ranjan**
+**Soumya Ranjan Bhol**
 
 Developed as an independent academic machine learning and data analytics project.

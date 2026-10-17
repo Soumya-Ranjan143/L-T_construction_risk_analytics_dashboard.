@@ -1,4 +1,4 @@
-# Construction Delay Risk Intelligence For L&T Group.
+# Construction Delay Risk Prediction For L&T Group.
 
 An AI-powered academic project that uses machine learning to analyze construction project data, identify potential delay risks, and present insights through an interactive dashboard.
 
